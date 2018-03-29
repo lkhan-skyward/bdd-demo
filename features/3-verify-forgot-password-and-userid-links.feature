@@ -6,7 +6,6 @@ Feature: Verify Forgot password and userID links
     Given User is on "login" page
 
  
-  @ORPHAN
   Scenario: Verify forgot password and userID links
 
     When I click on the sign in button
